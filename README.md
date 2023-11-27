@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @kennethjhamba
-- 👀 I’m interested in software development
-- 🌱 I’m currently learning javascript and php
-- 📫 Reach me on LinkedIn, www.linkedin.com/in/kenneth-jhamba-13a346157
+- 👀 I’m interested in Cloud Architecture and Software Development
+- 🌱 I’m currently completing my AWS Solutions Architect certification and a Javascript Course on Udemy
+- 📫 Reach me on LinkedIn, https://www.linkedin.com/in/kenneth-jhamba-13a346157
